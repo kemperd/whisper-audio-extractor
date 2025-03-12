@@ -8,6 +8,5 @@ Steps to install (with conda):
 1. git clone https://github.com/kemperd/whisper-audio-extractor
 2. conda create -n whisper-audio-extractor python=3.12
 3. conda activate whisper-audio-extractor
-4. cd whisper-audio-extractor
-5. pip install -r requirements.txt
-6. ./run.sh
+4. pip install -r requirements.txt
+5. ./run.sh
