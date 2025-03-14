@@ -1,5 +1,7 @@
 # whisper-audio-extractor
-Text-to-speech based (Whisper) audio extractor tool
+Text-to-speech based (Whisper) audio extractor tool.
+
+Blog post describing the tool: https://analytix.nl/post/whisper-based-video-text-extraction-tool/
 
 Tested with Python 3.12.9
 
